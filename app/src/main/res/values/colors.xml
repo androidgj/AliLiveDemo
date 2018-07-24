@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="gray_bg">#66CDC9C9</color>
+
+    <color name="thumbGradient">#eeeeee</color>
+    <color name="thumbOnColor">#4CD864</color>
+    <color name="trackGradient">#888888</color>
+    <color name="trackOnColor">#4CD864</color>
+
+    <color name="background_blue">#2d44f4</color>
+
+    <color name="red">#ffff0000</color>
+    <color name="darker_gray">#aaa</color>
+    <color name="text_blue">#2d44f4</color>
+
+    <color name="yellow">#ffff00</color>
+    <color name="transparent">#50000000</color>
+    <color name="light_gray">#30000000</color>
+
+
+    <color name="alivc_color_pusher_colorPrimary">#1e222d</color>
+    <color name="alivc_color_pusher_colorAccent">#ff00c1de</color>
+
+    <color name="colorPrimary_alpha_five">#1affffff</color>
+    <color name="colorPrimary_noalpha_five">#292d37</color>
+    <color name="colorPrimary_alpha_ten">#0cffffff</color>
+    <color name="colorPrimary_noalpha_ten">#343842</color>
+    <color name="colorPrimary_alpha_fifteen">#26ffffff</color>
+    <color name="colorPrimary_noalpha_fifteen">#40434c</color>
+    <color name="colorPrimary_alpha_twenty">#33ffffff</color>
+
+    <color name="dialog_bg">#f2373d41</color>
+    <color name="dialog_bg_light">#4D1C1F21</color>
+    <color name="text_white">#ffffffff</color>
+    <color name="dialog_bg_gray">#888</color>
+
+</resources>
